@@ -4,4 +4,4 @@ NPM     : 2206813706
 
 Kelas   : PBP C
 
-Jurusan : Sistem Informasi
+Hobi    : Menonton Film
